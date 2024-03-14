@@ -1,5 +1,5 @@
 
-# [Backend Engineer] *Lee Youngmin*'s GitHub
+# Lee Youngmin - Backend Engineer
 
 
 [![youngandmini's github stats](https://github-readme-stats.vercel.app/api?username=youngandmini&theme=blue-green)](https://github.com/youngandmini/github-readme-stats)
